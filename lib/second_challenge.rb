@@ -30,7 +30,7 @@ def second_challenge
         :status => "alive"
       },
       :hero_friends => []
-      }
+    }
 
   
 end
